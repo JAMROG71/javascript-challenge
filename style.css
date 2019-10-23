@@ -1,0 +1,11 @@
+.col-md-12 h1 {
+    color: blue
+}
+
+.table-striped th{
+    color: red
+}
+
+#form-group {
+    display: inline;
+}
